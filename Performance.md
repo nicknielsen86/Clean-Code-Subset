@@ -20,7 +20,7 @@ function bubbleSort(array) {
 ```
 
 For worst case analysis of this algorithm  
-we have 14n^2 + 2n + 1
+we have 14n^2 + 3n + 1
 For Big-O notation the final result is O(n^2)
 
 ## Euclid's algorithm to find The greatest common denominator
