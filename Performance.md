@@ -34,5 +34,5 @@ function euclidGCD(number1, number2) {
 ```
 
 For worst case analysis of this algorithm (case like euclidGCD(1, n))
-we have 3n.
+we have 4n.
 For Big-O notation the final result is O(n)
